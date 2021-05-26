@@ -6,6 +6,7 @@
     <img src="https://hosseinghanbari.ir/img/logo.png" alt="hossein ghanbari" alt="" style='resize-mode: contain;max-width: 90%'>
 </a>
 
+  <a href="https://twitter.com/nimadrskr"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
 
 
 # Front-end developer (react js & react native) 

@@ -1,5 +1,7 @@
 ![hossein ghanbari](https://hosseinghanbari.ir/img/logoDark.png)
 
+<img alt="hossein ghanbari"  title="hossein ghanbari" src="https://hosseinghanbari.ir/img/logo.png" width="100" height="50" />
+
 
 
 # Front-end developer (react js & react native) 

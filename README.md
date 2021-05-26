@@ -4,12 +4,9 @@
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
-```diff
 
-![hossein ghanbari](https://hosseinghanbari.ir/img/logo.png)
-```
  
- # Front-end developer (react js & react native) 
+ ![bg](red) # Front-end developer (react js & react native) 
  
 ## 📫 How to reach me:
 https://www.linkedin.com/in/hossein-ghanbari-hg/

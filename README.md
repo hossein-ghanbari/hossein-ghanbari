@@ -7,4 +7,4 @@ https://www.linkedin.com/in/hossein-ghanbari-hg/
 https://codepen.io/trending
 mailto: hossein.ghanbari.hg73@gmail.com
 
-<span style="color:blue">some *blue* text</span>.
+<span style="background-color:blue">some *blue* text</span>.

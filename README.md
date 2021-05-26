@@ -1,4 +1,4 @@
-<img alt="hossein ghanbari"  title="hossein ghanbari" src="https://hosseinghanbari.ir/img/logoDark.png" width="500"/>
+<img alt="hossein ghanbari"  title="hossein ghanbari" src="https://hosseinghanbari.ir/img/logoDark.png" width="500"/ style='width: 100%;max-width: 100%;height: 200px;object-fit: contain;'>
 
 # Front-end developer (react js & react native) 
  

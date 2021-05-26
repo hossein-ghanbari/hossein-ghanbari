@@ -1,9 +1,10 @@
- Hi there 👋
+ ### Hi there 👋
 
- 🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
+Front-end developer (react js & react native) 
+ 
 
-
- 📫 How to reach me: ...
- ⚡ Fun fact: ...
+📫 How to reach me:
+https://www.linkedin.com/in/hossein-ghanbari-hg/
+https://codepen.io/trending
+mailto: hossein.ghanbari.hg73@gmail.com
 

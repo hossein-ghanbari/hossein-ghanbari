@@ -2,7 +2,7 @@
 
 # Front-end developer (react js & react native) 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub analytics
 
 <p align="center">
 <a href="https://github.com/hossein-ghanbari">
@@ -11,7 +11,7 @@
 </a>
 </p>
  
-### 📫 How to reach me:
+### 📫 &nbsp;How to reach me
 ######  https://hosseinghanbari.ir
 ###### https://www.linkedin.com/in/hossein-ghanbari-hg
 ###### https://codepen.io/hossein_ghanbari

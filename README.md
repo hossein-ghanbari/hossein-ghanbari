@@ -7,7 +7,7 @@
 #
 
 ### 👨🏻‍💻 &nbsp;About Me
-Front-end developer (react js & react native)
+Front-end developer (react js & react native), interested in microcontrollers.
 
 #
 

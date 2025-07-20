@@ -4,3 +4,4 @@
 <a href="https://codepen.io/hossein_ghanbari"><img src="https://img.shields.io/badge/-codepen-131417?style=flat&logo=codepen&logoColor=white"/></a>
 <a href="mailto:hossein.ghanbari.hg73@gmail.com"><img src="https://img.shields.io/badge/-hossein.ghanbari.mhg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
+<img src="https://raw.githubusercontent.com/hossein-ghanbari/hossein-ghanbari/output/snake.svg" alt="Snake animation" />

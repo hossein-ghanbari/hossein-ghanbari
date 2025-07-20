@@ -1,9 +1,20 @@
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hossein-ghanbari-hg"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.npmjs.com/~hossein-mhg"><img src="https://img.shields.io/badge/-npm-DC2D35?style=flat&logo=npm&logoColor=white"/></a>
-  <a href="https://codepen.io/hossein_ghanbari"><img src="https://img.shields.io/badge/-codepen-131417?style=flat&logo=codepen&logoColor=white"/></a>
-  <a href="mailto:hossein.ghanbari.hg73@gmail.com"><img src="https://img.shields.io/badge/-hossein.ghanbari.mhg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.npmjs.com/~hossein-mhg" target="_blank">
+    <img src="https://cdn.simpleicons.org/npm/CB3837"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hossein-ghanbari-hg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:hossein.ghanbari.hg73@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/hossein_mhg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://codepen.io/hossein_ghanbari" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
 </div>
 
 ###
